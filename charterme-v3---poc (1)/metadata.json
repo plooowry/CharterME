@@ -1,0 +1,6 @@
+{
+  "name": "CharterMe V3 - PoC",
+  "description": "An AI-powered platform to assist UK engineering professionals in preparing their Chartered Engineer (CEng) applications by mapping experience to UK-SPEC competencies, receiving AI feedback, and drafting application content.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
